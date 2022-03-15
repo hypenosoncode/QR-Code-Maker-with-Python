@@ -1,1 +1,1 @@
-# QR-Code-Maker-with-Python
+# QR Code Maker with Python
